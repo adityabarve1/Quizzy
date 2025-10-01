@@ -40,7 +40,7 @@ A simple quiz application with user authentication using the MERN stack (MongoDB
    
 2. Install backend dependencies:
    ```sh
-    cd backend
+    cd server
     npm install
    ```
    
@@ -60,7 +60,7 @@ A simple quiz application with user authentication using the MERN stack (MongoDB
 
 1. Install frontend dependencies:
 ``` sh
-    cd ../frontend
+    cd ../client
     npm install
 ```
 
