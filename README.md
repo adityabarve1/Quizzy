@@ -34,7 +34,7 @@ A simple quiz application with user authentication using the MERN stack (MongoDB
 ### Backend Setup
 1. Clone the repository:
    ```sh
-     git clone https://github.com/yourusername/quiz-web-app.git
+     git clone https://github.com/ratnprasad-gangthade/quiz-web-app.git
      cd quiz-web-app
    ```
    
